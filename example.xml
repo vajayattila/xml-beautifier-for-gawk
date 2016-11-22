@@ -1,0 +1,67 @@
+<?xml version="1.0"                                               ?>
+<parameters                                       >                                          <return errorcode     ="0"
+  
+  
+  
+  />
+  <list                         
+  >								<!--comment-->
+    <item name=       "name attribute" value     =     "value attribute"
+    /><!-- 
+	
+	comment for 
+	item2
+	
+	-->
+																				<item2        isdata="true"                             >value2
+	1
+	2
+	3
+																					</item2
+																				
+																				>
+	
+	<!--   comment for    -->
+	<!--    item3   -->
+	
+	
+	
+    <item3 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    value
+	
+	
+	=
+	
+	
+	
+	
+	"dfsdfsdfsdfdsfsdfsdfsdf
+    
+    
+    
+    gfdjgjhfgjhgf
+    gfdjfgjhfgjhfg"
+	
+	
+	
+	
+	
+	/>
+	<item4>item 
+	
+	value 4
+	
+	
+	</item4>
+  </list
+  >
+</parameters>
