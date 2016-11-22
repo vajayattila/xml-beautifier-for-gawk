@@ -1,0 +1,7 @@
+for Windows:
+
+http://gnuwin32.sourceforge.net/packages/gawk.htm
+
+for Others:
+
+https://www.gnu.org/software/gawk/
